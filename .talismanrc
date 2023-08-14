@@ -1,0 +1,6 @@
+fileignoreconfig:
+  - filename: package-lock.json
+    checksum: fbf787722f06dfdaa879e6df67e27ab982258a36d8b3cd197a34c76b4837bab8
+  - filename: src/components/CourseGoals/CourseGoalList/CourseGoalList.js
+    checksum: 10974385da42119c6eaff00909d87c473ee49c47cf7420b650bbcd40d2ba545b
+version: ""
